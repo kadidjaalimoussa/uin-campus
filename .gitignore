@@ -1,0 +1,23 @@
+# Fichiers generes par CMake
+/build/
+/cmake-build-*/
+
+# Compilation
+*.o
+*.obj
+*.a
+*.so
+*.out
+*.exe
+
+# Fichiers temporaires
+*.tmp
+*~
+
+# Configuration locale des editeurs
+.vscode/
+.idea/
+
+# Systeme
+.DS_Store
+Thumbs.db
