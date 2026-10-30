@@ -2,8 +2,7 @@
 
 #include <print>
 
-int main()
-{
+int main() {
     std::println("UIN-Campus - Systeme de gestion academique");
     std::println("Version {}", uin::version());
 }
